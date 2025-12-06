@@ -2,11 +2,10 @@
 
 DevLopLab - Your Remote Tech Lab
 
-🙋‍♀️ Schdedule a call - https://devloplab.com/schedule-a-call
 
-👩‍💻 Email - contact@devloplab.com
+👩‍💻 Email - saprative@gmail.com
 
-🧙 Website - https://devloplab.coom
+🧙 Website - https://saprative.github.io
 
 
 <!--
