@@ -1,6 +1,6 @@
-# DevLopLab
+# Saprative's Lab    
 
-DevLopLab - Your Remote Tech Lab
+Saprative's Lab - Tech Lab by Saprative Jana
 
 
 👩‍💻 Email - saprative@gmail.com
